@@ -67,6 +67,8 @@ docker-compose up
 
 To start the server again. 
 
+##If you need to start fresh
+
 **Remove all containers
 
 
