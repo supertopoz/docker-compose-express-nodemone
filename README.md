@@ -67,16 +67,16 @@ docker-compose up
 
 To start the server again. 
 
-##If you need to start fresh
+### Starting over
 
-**Remove all containers
+*Remove all containers
 
 
 ```
 docker rm $(docker ps -a -q)
 ```
 
-**Remove all images
+*Remove all images
 
 ```
 docker rmi $(docker images -q)
